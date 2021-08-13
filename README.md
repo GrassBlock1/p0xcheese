@@ -5,4 +5,7 @@
 
 # 关于此人
 网站: https://***who.com
+
 他的学生联盟: https://stublogs.cn/
+
+他的论坛 https://community.stublogs.cn/
