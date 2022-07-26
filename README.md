@@ -3,7 +3,7 @@ Hello World, It's just a repo doing nothing....
 
 # No more information
 [.](/README-CN.md)
-👆 重新公开 不藏着掖着了。
+👈 重新公开 不藏着掖着了。
 
 其人新昵称 djyf|oprn.cn
 
